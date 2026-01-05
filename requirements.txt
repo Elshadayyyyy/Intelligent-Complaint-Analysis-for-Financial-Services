@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+sentence-transformers
+langchain
+chromadb
+faiss-cpu
+transformers
+torch
+gradio
+tqdm
+python-dotenv
